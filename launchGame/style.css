@@ -48,6 +48,7 @@ h3 {
 
 /* UTILITIES */
 
+
 .container {
   width: 100vw;
   height: 100vh;
@@ -57,6 +58,7 @@ h3 {
   max-width: 80rem;
   margin: 0 auto;
   padding: 2rem;
+  flex-direction: column;
 }
 
 .container > * {
@@ -136,4 +138,8 @@ input::placeholder {
   #home h1, h3{
     font-size: 25px;
   }
+}
+
+.footer{
+  font-size: 16px;
 }
