@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/*"
+  to = "../launchGame.index.html"
+  status = 200
